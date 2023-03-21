@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">loginScreen</string>
+    <string name="link"><a href="">Forgot Password?</a></string>
+    <string-array name="securityQuestions">
+        <item>City born in</item>
+        <item>First Car</item>
+        <item>Best Friend first name</item>
+        <item>Pet name</item>
+        <item>Favourite Book</item>
+        <item>Spouse name</item>
+        <item>Parents Birth place</item>
+        <item>Spectacle Company</item>
+    </string-array>
+</resources>
